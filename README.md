@@ -1,12 +1,28 @@
 # Toggle HTML Password Input Semantically
 This is a very small library for creating password toggle buttons semantically.
 
-## Todo
-- NPM & Yarn Package
-
 ## Usage
 It's simple.
 1. Download the JS file
+  - Download [manually](https://github.com/nauvalazhar/vanilla-js-show-hide-password/releases)
+  - Or using package manager
+  ```bash
+  npm i vanilla-js-show-hide-password
+  
+  or
+  
+  yarn add vanilla-js-show-hide-password
+  ```
+  - Or using CDN
+  ```
+  https://cdn.jsdelivr.net/npm/vanilla-js-show-hide-password@1.0.0/toggle-password.js
+  
+  https://unpkg.com/vanilla-js-show-hide-password@1.0.0/toggle-password.js
+  
+  https://bundle.run/vanilla-js-show-hide-password@1.0.0
+  ```
+  
+  
 2. Import into your markup
 ```html
 <script src="toggle-password.js"></script>
