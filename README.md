@@ -1,7 +1,7 @@
 # Toggle HTML Password Input Semantically
 This is a very small library for creating password toggle buttons semantically.
 
-# Usage
+## Usage
 It's simple.
 1. Download the JS file
 2. Import into your markup
@@ -33,5 +33,5 @@ For example:
 </style>
 ```
 
-# License
+## License
 MIT License
