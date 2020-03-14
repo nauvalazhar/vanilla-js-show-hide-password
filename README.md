@@ -1,6 +1,9 @@
 # Toggle HTML Password Input Semantically
 This is a very small library for creating password toggle buttons semantically.
 
+## Todo
+- NPM & Yarn Package
+
 ## Usage
 It's simple.
 1. Download the JS file
