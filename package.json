@@ -1,0 +1,22 @@
+{
+  "name": "vanilla-js-show-hide-password",
+  "version": "1.0.0",
+  "description": "Toggle HTML password input semantically ",
+  "main": "toggle-password.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nauvalazhar/vanilla-js-show-hide-password.git"
+  },
+  "keywords": [
+    "password"
+  ],
+  "author": "Nauval",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nauvalazhar/vanilla-js-show-hide-password/issues"
+  },
+  "homepage": "https://github.com/nauvalazhar/vanilla-js-show-hide-password#readme"
+}
